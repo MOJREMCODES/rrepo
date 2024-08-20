@@ -1,3 +1,4 @@
 hello word this  is the first line  in  test2-repo
 second line line in test2-repo
 third line in test2-repo apres la supression
+the last line in file1.txt 
